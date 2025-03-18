@@ -41,6 +41,7 @@ The application allows users to select a cipher, enter text, provide necessary k
 - **Tailwind CSS** – Styling framework for responsive and modern design.
 - **JavaScript (ES6+)** – Core logic for encryption and decryption algorithms.
 - **Netlify** – Deployment platform for hosting the web application.
+  ![Uploading WhatsApp Image 2025-03-18 at 02.42.01_309fe7c1.jpg…]()
 
 ## Installation
 
